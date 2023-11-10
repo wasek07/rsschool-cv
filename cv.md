@@ -33,7 +33,6 @@
 >
 >}
 >
-
 ### Education ###
 * Mogilev State University of Food Technologies, mechanical engineer
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
