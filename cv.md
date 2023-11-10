@@ -10,3 +10,10 @@
 
 ### About me ###
 * I am good at independent work also have good teamwork skills and very willing to learn and develop new skills.
+
+### Skills ###
+* HTML5, CSS3
+* JavaScript (Basic)
+* VS Code
+* Figma, Adobe Photoshop
+* Git, GitHub
