@@ -17,3 +17,19 @@
 * VS Code
 * Figma, Adobe Photoshop
 * Git, GitHub
+
+### Code Example ###
+>function solution(str, ending){
+>
+>if(ending == str.substr(str.length - ending.length)){
+>
+> return true;
+> 
+>}else{
+>
+> return false;
+> 
+>}
+>
+>}
+>
