@@ -6,3 +6,7 @@
 * **Phone:** +48 696 695 105
 * **E-mail:** w.talstyko@gmail.com
 * **GitHub:** wasek07
+
+
+### About me ###
+* I am good at independent work also have good teamwork skills and very willing to learn and develop new skills.
